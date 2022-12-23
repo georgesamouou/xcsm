@@ -1,0 +1,19 @@
+<notion label="Notion par defaut" position="3">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Le titre constitue la première partie du support. Il  permet au lecteur de prendre connaissance de l’origine du document et du sujet traité.</texte>
+            <texte>Cette partie du document doit se présentée sous forme de tableau  faisant ressortir les éléments suivants:</texte>
+            <ul>
+              <li>L’identifiant du cadre institutionnel, dans notre cas c’est la SABC</li>
+              <li>Le domaine concerné par le support  (exemple : Achat)</li>
+              <li>Le thème développé dans le support.</li>
+              <li>Le  type de document que représente le support  (cours, fiche de TD, etc.)</li>
+              <li>La version du document</li>
+              <li>La date (si possible le lieu) de  rédaction du document</li>
+              <li>La date de la dernière mise à jour</li>
+              <li>Le(s) nom(s) et adresse(s) de(s) auteur(s)</li>
+              <li>La licence du document (les droits)</li>
+            </ul>
+            <texte>Ces informations peuvent êtres enrichies ou allégées en fonction des circonstances.</texte>
+          </contenu>
+        </notion>

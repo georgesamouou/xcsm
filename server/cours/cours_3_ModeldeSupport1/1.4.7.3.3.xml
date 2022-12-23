@@ -1,0 +1,6 @@
+<notion label="Notion par defaut" position="26">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Les puces d’énumérations doivent êtres les éléments du bloc « puces » de Word. Les tirés, barres, étoiles ou tout autre caractères choisit manuellement comme puce peuvent ne pas être traités comme tel.  Ne pas choisir des puces en image. L’imbrication de plusieurs familles de puces est fortement déconseillée.  Utiliser de préférence les puces non numérotés.</texte>
+          </contenu>
+        </notion>

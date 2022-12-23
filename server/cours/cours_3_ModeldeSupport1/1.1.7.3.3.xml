@@ -1,0 +1,13 @@
+<notion label="Notion par defaut" position="23">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Signes simples : point, virgule : pas d’espace avant le signe, un espace après ;</texte>
+            <texte>Signes composés : double point, point-virgule, point d’interrogation, point d’exclamation, etc. :</texte>
+            <ul>
+              <li>Un espace avant le signe,</li>
+              <li>Un espace après ;</li>
+              <li>Les parenthèses, crochets, etc. sont accolées aux items qu’elles encadrent ; elles ne prennent donc pas d’espace à l’intérieur mais appellent à l’extérieur.</li>
+              <li>Les points de suspension en fin d’énumération sont à proscrire. Ils sont avantageusement remplacés par etc.</li>
+            </ul>
+          </contenu>
+        </notion>

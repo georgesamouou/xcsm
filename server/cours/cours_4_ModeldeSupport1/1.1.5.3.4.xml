@@ -1,0 +1,8 @@
+<notion label="Notion par defaut" position="21">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Chaque tableau présenté doit être identifié à l’aide d’un titre. Celui-ci comporte le mot Tableau suivi de son numéro en pseudo-décimales (numéro de chapitre et ordre d’apparition du tableau). Le titre complet du tableau est placé à la suite du numéro. Il est à noter que le titre ne doit pas excéder une ligne.</texte>
+            <texte>Les tableaux sont constitués de colonnes et de rangées. Les colonnes doivent être séparées par des espaces suffisamment grands pour que les données se lisent facilement. Les rangées sont séparées au besoin par des lignes horizontales. De façon générale, les données sont saisies avec un interligne et demi tout comme le texte courant. Toutefois, pour des raisons d’économie d’espace, un interligne plus petit peut être utilisé. Lorsqu’un élément du tableau requiert un renseignement ou une explication supplémentaire, un appel de note est alors inséré à l’endroit où l’explication est requise. Les appels de note utilisent des lettres afin de les distinguer des notes chiffrées du texte. La note explicative est présentée sous le tableau. Lorsque la source du tableau est citée, cette dernière est placée après la note explicative.</texte>
+            <texte>Un tableau doit idéalement tenir sur une seule page. Lorsqu’un tableau doit continuer sur une deuxième page, les têtes de colonnes et les têtes de rangées doivent alors être répétées sur la page suivante. On ne doit pas mettre les images dans les tableaux, ni les puces et les  énumérations. Il n’est pas indiqué d’imbriquer les tableaux ni de colorier les cases du tableau.</texte>
+          </contenu>
+        </notion>

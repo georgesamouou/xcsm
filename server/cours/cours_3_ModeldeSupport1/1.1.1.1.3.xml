@@ -1,0 +1,28 @@
+<notion label="Notion par defaut" position="1">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>LIRIMA</texte>
+            <texte>CONTROLE DU DOCUMENT</texte>
+            <texte>Auteurs &amp; Versions</texte>
+            <table border="1">
+              <tbody>
+                <tr>
+                  <td background-color="#1F497D" border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">Nom de l’Auteur</td>
+                  <td background-color="#1F497D" border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">Version</td>
+                  <td background-color="#1F497D" border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">Date publication</td>
+                  <td background-color="#1F497D" border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">Changementspar rapport à la Version précédente</td>
+                </tr>
+                <tr>
+                  <td border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">NGANMENI Zéphirin</td>
+                  <td border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">1.0</td>
+                  <td border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">12/04/2011</td>
+                  <td border="0.5pt solid black" display-align="center" padding-left="5.4pt" padding-right="5.4pt">Version initiale</td>
+                </tr>
+              </tbody>
+            </table>
+            <texte>Introduction</texte>
+            <texte>Pendant  le processus de scénarisation, le support de cours traverse plusieurs étapes et change souvent de forme. Pour minimiser l’impact de ces transformations sur le produit final, nous convenons d’adopter un modèle pour la rédaction de nos supports de sorte à se conformer le mieux possible aux exigences du système.</texte>
+            <texte>Ce document présente à cet effet les règles relatives à la rédaction et à la présentation visuelle des différentes parties d’un support de cours. On y trouve l’ordre de présentation des pages ainsi que les règles spécifiques à respecter pour les pages préliminaires, les pages d’introduction, de développement, de conclusion et pour les pages complémentaires.</texte>
+            <texte>Le logiciel de traitement de texte Word est notre environnement de référence, il propose des meilleurs outils de gestion de mise en page et de hiérarchisation du document.</texte>
+          </contenu>
+        </notion>

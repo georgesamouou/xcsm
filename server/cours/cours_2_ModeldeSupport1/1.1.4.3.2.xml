@@ -1,0 +1,7 @@
+<notion label="Notion par defaut" position="20">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Un cours comporte idéalement trois différents niveaux d’information hiérarchisés et numérotés en pseudo-décimales (Ex. : 2, 2.1, 2.1.1) (Voir Annexe).</texte>
+            <texte>Les titres et sous titres doivent êtres bien enchainés. On doit retrouver toute les imbrications d’un sous titre dans sa numérotation. Par exemple, après le titre 1.1, au lieu d’annoncer le titre a) on doit écrire 1.1.a. On doit s’assurer que chaque titre est reconnu comme tel par Word si nom, le titre sera considérer comme un texte simple.</texte>
+          </contenu>
+        </notion>

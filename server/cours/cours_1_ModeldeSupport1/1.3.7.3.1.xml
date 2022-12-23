@@ -1,0 +1,7 @@
+<notion label="Notion par defaut" position="25">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Les décorations du type : bordures de page, filigrame et autres fond de texte, ne sont pas conseillés. Il en est de même pour la coloration des cases d’un tableau, l’encadrement des titres, l’utilisation des rectangles, carrés et autres formes prédéfinies dans Word pour l’encadrement du texte.</texte>
+            <texte>Les en-têtes et les pieds de page sont à proscrire car on ne les prend pas en compte pendant la transformation. Notons cependant que pour des besoins spécifiques (références, navigation) le rédacteur du support peut adopter un modèle simple  d’entête ou de pieds de page pour la numérotation du document et autre. Ces informations ne seront pas prises en considération pendant la conversion du document.</texte>
+          </contenu>
+        </notion>

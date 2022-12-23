@@ -1,0 +1,10 @@
+<notion label="Notion par defaut" position="24">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <ul>
+              <li>Le soulignement n’est pas interdit mais déconseillé en typographie.</li>
+              <li>Il vaut mieux mettre en gras que d’effectuer un soulignement.</li>
+              <li>Il vaut mieux espacer les paragraphes automatiquement (6 points avant et 6 points après) que d’insérer des retours de ligne inutiles.</li>
+            </ul>
+          </contenu>
+        </notion>
